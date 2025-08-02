@@ -39,7 +39,7 @@ src/
 bash
 Copy
 Edit
-git clone https://github.com/your-username/healthcare-appointments.git
+git clone https://github.com/suresh886/healthcare-appointments.git
 cd healthcare-appointments
 npm install
 npm start
@@ -91,6 +91,6 @@ Feel free to reach out if you have any questions!
 css
 Copy
 Edit
-👤 Your Name
-📧 your.email@example.com
-🌐 https://github.com/your-username
+👤 Suresh Avula
+📧 aavulasuresh9652@gmail.com
+🌐 https://github.com/suresh886
