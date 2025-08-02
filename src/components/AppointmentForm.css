@@ -1,0 +1,23 @@
+.appointment-form {
+  background: #fff;
+  padding: 20px;
+  border-radius: 8px;
+}
+.appointment-form form {
+  display: flex;
+  flex-direction: column;
+}
+.appointment-form label {
+  margin-bottom: 10px;
+}
+.appointment-form input {
+  padding: 8px;
+  margin-top: 4px;
+}
+.appointment-form button {
+  padding: 10px;
+  background: green;
+  color: white;
+  border: none;
+  cursor: pointer;
+}
