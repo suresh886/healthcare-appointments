@@ -1,7 +1,7 @@
 import React from 'react';
 import { useParams, useNavigate } from 'react-router-dom';
 import doctors from '../data/doctors.json';
-import './DoctorProfile.css';
+import './index.css';
 
 const DoctorProfile = () => {
   const { id } = useParams();
