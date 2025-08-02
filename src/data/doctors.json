@@ -1,1 +1,27 @@
+[
+  {
+    "id": 1,
+    "name": "Dr. Aditi Sharma",
+    "specialization": "Cardiologist",
+    "availability": "Available Today",
+    "image": "https://via.placeholder.com/100",
+    "schedule": ["2025-08-05", "2025-08-07"]
+  },
+  {
+    "id": 2,
+    "name": "Dr. Ravi Verma",
+    "specialization": "Dermatologist",
+    "availability": "Fully Booked",
+    "image": "https://via.placeholder.com/100",
+    "schedule": []
+  },
+  {
+    "id": 3,
+    "name": "Dr. Neha Singh",
+    "specialization": "Neurologist",
+    "availability": "On Leave",
+    "image": "https://via.placeholder.com/100",
+    "schedule": []
+  }
+]
 
