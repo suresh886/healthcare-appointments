@@ -1,5 +1,5 @@
 import React from 'react';
-import './DoctorCard.css';
+import './index.css';
 import { useNavigate } from 'react-router-dom';
 
 const DoctorCard = ({ doctor }) => {
