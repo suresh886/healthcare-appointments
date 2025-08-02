@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from 'react';
-import DoctorCard from './DoctorCard';
-import './DoctorList.css';
+import DoctorCard from './DoctorCard/index.js';
+import './index.css';
 import doctorsData from '../data/doctors.json';
 
 const DoctorList = () => {
