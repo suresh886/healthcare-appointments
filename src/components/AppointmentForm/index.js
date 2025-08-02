@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
 import { useParams } from 'react-router-dom';
 import doctors from '../data/doctors.json';
-import './AppointmentForm.css';
+import './index.css';
 
 const AppointmentForm = () => {
   const { id } = useParams();
