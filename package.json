@@ -5,11 +5,8 @@
   "dependencies": {
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
-<<<<<<< HEAD
     "react-router-dom": "^6.21.1",
-=======
     "react-router-dom": "^6.22.3",
->>>>>>> 11c859f98e243d12a346f5bbb992c3317c3707c7
     "react-scripts": "5.0.1"
   },
   "scripts": {
@@ -18,15 +15,12 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
-<<<<<<< HEAD
-=======
   "eslintConfig": {
     "extends": [
       "react-app",
       "react-app/jest"
     ]
   },
->>>>>>> 11c859f98e243d12a346f5bbb992c3317c3707c7
   "browserslist": {
     "production": [
       ">0.2%",
