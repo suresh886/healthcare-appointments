@@ -1,7 +1,6 @@
 [
   {
     "id": 1,
-<<<<<<< HEAD
     "name": "Dr. Alice Johnson",
     "specialization": "Cardiologist",
     "profileImage": "/images/alice.jpg",
@@ -16,8 +15,9 @@
     "availability": "Fully Booked",
     "schedule": []
   }
-]
-=======
+],
+[
+  {
     "name": "Dr. Aditi Sharma",
     "specialization": "Cardiologist",
     "availability": "Available Today",
@@ -42,4 +42,4 @@
   }
 ]
 
->>>>>>> 11c859f98e243d12a346f5bbb992c3317c3707c7
+11c859f98e243d12a346f5bbb992c3317c3707c7
